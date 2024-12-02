@@ -51,7 +51,7 @@ When I’m not diving into cybersecurity, you’ll likely find me exploring inno
 
 ## 📄 My Resume
 
-Want to know more? Feel free to check out my [resume here](https://github.com/YMQSec/YOUR_RESUME_LINK). I’d love to connect!
+Want to know more? Feel free to check out my [resume here](https://github.com/YMQSec/Yansiel_Melendez_Resume.pdf). I’d love to connect!
 
 ---
 

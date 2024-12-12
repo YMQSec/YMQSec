@@ -60,7 +60,7 @@ Want to know more? Feel free to check out my [resume here](https://github.com/YM
 ---
 ## 🌐 Check Out My Portfolio!
 
-Interested in seeing more of my work and projects? Feel free to check out my **[Portfolio](https://github.com/YMQSec/YMQSec.github.io)**. It includes additional information about my experience, work samples, and more!
+Interested in seeing more of my work and projects? Feel free to check out my **[Portfolio](https://ymqsec.github.io/)**. It includes additional information about my experience, work samples, and more!
 
 ---
 

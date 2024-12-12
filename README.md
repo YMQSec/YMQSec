@@ -26,11 +26,13 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Specialist** passionate ab
 
 ---
 
-## 🔍 About Me
+## 📜 Certifications
 
-I am a results-driven professional with a proven track record in cybersecurity, research, and technical support. My ability to bridge technical expertise and effective communication has enabled me to deliver impactful solutions that align with business goals. I’m always open to tackling complex challenges and advancing cybersecurity initiatives.
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15c4becc-3880-49e4-bcb3-f842ac092a2e" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-When I’m not diving into cybersecurity, you’ll likely find me exploring innovative tech trends or collaborating on projects that make a difference.
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="17a3198c-d3fe-4459-9866-56d80b39760b" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
@@ -49,6 +51,14 @@ When I’m not diving into cybersecurity, you’ll likely find me exploring inno
 
 ---
 
+## 🔨 Projects
+
+Here are some of my key projects:
+
+- [Password Strength Analyzer](https://github.com/YMQSec/Projects/tree/main/Password%20Strength%20Analyzer) - A tool to analyze the strength of passwords based on different security criteria.
+
+---
+
 ## 📄 My Resume
 
 Want to know more? Feel free to check out my [resume here](https://github.com/YMQSec/YMQSec.github.io/blob/275af1f4f51767632c721f574aafd51606867ffb/Resume/Yansiel_Melendez_Resume.pdf). I’d love to connect!
@@ -60,4 +70,4 @@ Want to know more? Feel free to check out my [resume here](https://github.com/YM
 I’m actively looking for opportunities in cybersecurity, and I’m always excited to connect with like-minded professionals. Let’s work together to create innovative solutions that drive security and resilience!
 
 📫 **yansiel.melendez@gmail.com**  
-🌐 [LinkedIn](https://www.linkedin.com/in/yansiel-melendez/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/yansiel-melendez/)

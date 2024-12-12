@@ -25,6 +25,17 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Specialist** passionate ab
 - Achieved full compliance with U.S. regulatory standards and boosted operational efficiency.
 
 ---
+## 🎓 Education
+
+### Bachelor of Science in Cybersecurity  
+**Florida International University**  
+*Graduation Year: 2023*  
+
+### Associate of Science in Information Technology  
+**Miami Dade College**  
+*Graduation Year: 2021*  
+
+---
 
 ## 📜 Certifications
 
@@ -34,32 +45,22 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Specialist** passionate ab
 
 ---
 
-## 📈 Career Highlights
-
-### Cybersecurity Specialist @ JF Glass & Mirror
-- Conducted vulnerability assessments and enhanced compliance frameworks.
-- Improved organizational security posture by aligning with NIST guidelines.
-
-### Cybersecurity Research Assistant @ Florida International University
-- Identified and mitigated biocybersecurity vulnerabilities, increasing remediation efficiency.
-- Automated testing processes, improving integrity and efficiency.
-
-### Associate Support Technician @ Applied Systems
-- Resolved 95% of client issues on first contact and optimized QA processes.
-
----
-
 ## 🔨 Projects
 
 Here are some of my key projects:
 
-- [Password Strength Analyzer](https://github.com/YMQSec/Projects/tree/main/Password%20Strength%20Analyzer) - A tool to analyze the strength of passwords based on different security criteria.
+[Password Strength Analyzer](https://github.com/YMQSec/Projects/tree/main/Password%20Strength%20Analyzer) - A tool to analyze the strength of passwords based on different security criteria.
 
 ---
 
 ## 📄 My Resume
 
 Want to know more? Feel free to check out my [resume here](https://github.com/YMQSec/YMQSec.github.io/blob/1a9f65811af4dbd3a1f3ca4d60a67d1cb23b03ef/Resume/Yansiel_Melendez_Resume.pdf). I’d love to connect!
+
+---
+## 🌐 Check Out My Portfolio!
+
+Interested in seeing more of my work and projects? Feel free to check out my **[Portfolio](https://github.com/YMQSec/YMQSec.github.io)**. It includes additional information about my experience, work samples, and more!
 
 ---
 

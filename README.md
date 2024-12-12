@@ -28,8 +28,6 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Specialist** passionate ab
 
 ## 📜 Certifications
 
-## 📜 Certifications
-
 ![Security+ Badge](https://images.credly.com/size/150x150/images/15c4becc-3880-49e4-bcb3-f842ac092a2e/security_plus_badge.png)
 
 ![Network+ Badge](https://images.credly.com/size/150x150/images/17a3198c-d3fe-4459-9866-56d80b39760b/network_plus_badge.png)

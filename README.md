@@ -55,7 +55,7 @@ Here are some of my key projects:
 
 ## 📄 My Resume
 
-Want to know more? Feel free to check out my [resume here](https://github.com/YMQSec/YMQSec.github.io/blob/1a9f65811af4dbd3a1f3ca4d60a67d1cb23b03ef/Resume/Yansiel_Melendez_Resume.pdf). I’d love to connect!
+Want to know more? Feel free to check out my [resume here](https://ymqsec.github.io/Resume/Yansiel_Melendez_Resume.pdf). I’d love to connect!
 
 ---
 ## 🌐 Check Out My Portfolio!

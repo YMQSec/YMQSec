@@ -28,12 +28,12 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Specialist** passionate ab
 ## 🎓 Education
 
 ### Bachelor of Science in Cybersecurity  
-**Florida International University**  
-*Graduation Year: 2023*  
+**Collin College**  
+*Graduation Year: 2024*  
 
 ### Associate of Science in Information Technology  
-**Miami Dade College**  
-*Graduation Year: 2021*  
+**Collin College**  
+*Graduation Year: 2022*  
 
 ---
 
